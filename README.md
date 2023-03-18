@@ -2,4 +2,6 @@
 
 #links
 
-https://discord.gg/Rx38cWrAcq
+recommended injector - https://discord.gg/jdTjHAkX
+
+client discord - https://discord.gg/3Da9HakJam
