@@ -1,1 +1,1 @@
-https://github.com/Laamy/iris-public/releases/download/v0.2.4/Iris.dll
+https://github.com/Laamy/iris-public/releases/download/v0.2.2/Iris.dll
